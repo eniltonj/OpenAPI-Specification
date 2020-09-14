@@ -14,7 +14,7 @@
     "chai": "1.9.x"
   },
   "devDependencies": {
-    "glob": "^4.0.5",
+    "glob": "^7.1.6",
     "gulp": "~3.8.x",
     "gulp-ext-replace": "^0.1.0",
     "gulp-jsonlint": "0.0.3",
